@@ -15,5 +15,16 @@ namespace Mikebm.TestLibrary
         {
             return "Hello World!";
         }
+
+        /// <summary>
+        /// Adds two numbers.
+        /// </summary>
+        /// <param name="a">The first number to add.</param>
+        /// <param name="b">The second number to add.</param>
+        /// <returns>The sum of <paramref name="a"/> and <paramref name="b"/>.</returns>
+        public int DoAddition(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
