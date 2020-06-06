@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Michael Miller</Authors>
+    <Company>Repofuge</Company>
+    <Product>Test Library</Product>
+    <Copyright>Copyright (c) 2020 Michael Miller</Copyright>
+    <Description>A test library.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+</Project>
