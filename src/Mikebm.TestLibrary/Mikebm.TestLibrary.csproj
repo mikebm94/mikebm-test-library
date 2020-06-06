@@ -9,6 +9,7 @@
     <Description>A test library.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
 </Project>
