@@ -26,5 +26,14 @@ namespace Mikebm.TestLibrary
         {
             return a + b;
         }
+
+        /// <summary>
+        /// Gets the number seven.
+        /// </summary>
+        /// <returns>7</returns>
+        public int GetSeven()
+        {
+            return 8;
+        }
     }
 }

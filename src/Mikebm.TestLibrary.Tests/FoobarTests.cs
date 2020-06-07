@@ -14,5 +14,15 @@ namespace Mikebm.TestLibrary.Tests
 
             Assert.AreEqual("Hello World!", greeting);
         }
+
+        [Test]
+        public void GetSeven_Returns7()
+        {
+            var foobar = new Foobar();
+
+            int result = foobar.GetSeven();
+
+            Assert.AreEqual(7, result);
+        }
     }
 }
