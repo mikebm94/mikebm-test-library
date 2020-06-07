@@ -33,7 +33,7 @@ namespace Mikebm.TestLibrary
         /// <returns>7</returns>
         public int GetSeven()
         {
-            return 8;
+            return 7;
         }
     }
 }
