@@ -2,7 +2,7 @@ param(
 	[Parameter(Mandatory=$true)][string]$version
 )
 
-$baseDir = Resolve-Path ..
+$baseDir = "$PSScriptRoot\.."
 $sourceDir = "$baseDir\src"
 $solutionPath = "$sourceDir\Mikebm.TestLibrary.sln"
 
